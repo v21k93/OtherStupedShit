@@ -1,0 +1,8 @@
+E:\wamp\www\Alco\Alco\Server\bin\Release\Server.exe.config
+E:\wamp\www\Alco\Alco\Server\bin\Release\Server.exe
+E:\wamp\www\Alco\Alco\Server\bin\Release\Server.pdb
+E:\wamp\www\Alco\Alco\Server\bin\Release\Alchemy.dll
+E:\wamp\www\Alco\Alco\Server\bin\Release\Newtonsoft.Json.dll
+E:\wamp\www\Alco\Alco\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+E:\wamp\www\Alco\Alco\Server\obj\Release\Server.exe
+E:\wamp\www\Alco\Alco\Server\obj\Release\Server.pdb

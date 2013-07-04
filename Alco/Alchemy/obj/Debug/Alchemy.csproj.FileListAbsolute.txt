@@ -1,0 +1,5 @@
+E:\wamp\www\Alco\Alco\Alchemy\bin\Debug\Alchemy.config
+E:\wamp\www\Alco\Alco\Alchemy\bin\Debug\Alchemy.dll
+E:\wamp\www\Alco\Alco\Alchemy\bin\Debug\Alchemy.pdb
+E:\wamp\www\Alco\Alco\Alchemy\obj\Debug\Alchemy.dll
+E:\wamp\www\Alco\Alco\Alchemy\obj\Debug\Alchemy.pdb
